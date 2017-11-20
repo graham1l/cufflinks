@@ -2,7 +2,9 @@
 
 long initTime;
 
+// uncomment and rename to morse for "LEFT"
 //char * morseL="HLHHHLHLHLLLLLLLHLLLLLLLHLHLHHHLHLLLLLLLHHHLLLLLLLLLLLLL";
+// uncomment and rename to morse for "RIGHT"
 char * morse="HLHHHLHLLLLLLLHLHLLLLLLLHHHLHHHLHLLLLLLLHLHLHLHLLLLLLLHHHLLLLLLLLLLLLL";
 
 int morseLen;
